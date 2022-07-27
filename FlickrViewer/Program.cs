@@ -16,7 +16,7 @@ namespace FlickrViewer
       {
          Application.EnableVisualStyles();
          Application.SetCompatibleTextRenderingDefault( false );
-         Application.Run( new FlickrViewerForm() );
+         Application.Run( new FickrViewerForm() );
       }
    }
 }
