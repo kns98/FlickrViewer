@@ -122,7 +122,12 @@ namespace FlickrViewer
             pictureBox.Image = Image.FromStream( memoryStream );
          } // end if
       } // end method imagesListBox_SelectedIndexChanged
-   } // end class FlickrViewerForm
+
+        private void FickrViewerForm_Load(object sender, EventArgs e)
+        {
+
+        }
+    } // end class FlickrViewerForm
 } // end namespace FlickrViewer
 
 /**************************************************************************
