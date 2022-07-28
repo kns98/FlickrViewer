@@ -1,0 +1,11 @@
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.AssemblyReference.cache
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.Properties.Resources.resources
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.GenerateResource.cache
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.exe
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.pdb
+C:\Users\kevin\Source\Repos\kns98\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.FickrViewerForm.resources
